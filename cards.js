@@ -65,7 +65,7 @@ var scenarios = [
   },
   {
     hackerCard : {
-      description : "Te vi escribir tu contraseña y hackeado tu cuenta.",
+      description : "Te vi escribir tu contraseña y he hackeado tu cuenta.",
       power : 2,
     },
     playerCards : [
@@ -122,25 +122,46 @@ var scenarios = [
         power : 4,
       }
     ]
-  }/* ,
+  },
   {
     hackerCard : {
-      description : "Descubrí dónde vives con toda la información personal que compartes en las redes sociales.",
+      description : "He instalado un virus en tu computadora que borrara todo si no depositas dinero en mi cuenta",
+      power : 4,
+    },
+    playerCards : [
+      {
+        description : "Tengo respaldos de toda mi información en medios físicos y digitales",
+        power : 5,
+      },
+      {
+        description : "Tengo instalado un programa que hace respaldos en la nube automáticamente cada mes",
+        power : 3,
+      },
+      {
+        description : "Pagare lo que pides para recuperar mi información",
+        power : 0,
+      }
+    ]
+  },
+  {
+    hackerCard : {
+      description : "Encontré la contraseña por defecto de tu modem de internet",
       power : 3,
     },
     playerCards : [
       {
-        description : "Nunca comparto información personal en mis cuentas de redes sociales.",
-        power : 5,
-      },
-      {
-        description : "Mantengo mis cuentas privadas para que solo mis amigos puedan verlas.",
+        description : "Cambie la contraseña por defecto y oculte mi red wifi",
         power : 4,
       },
       {
-        description : "Lo etiqueta todo para que mis amigos siempre sepan lo que estoy haciendo.",
+        description : "Cambie la contraseña por defecto de mi modem",
+        power : 2,
+      },
+      {
+        description : "Apagare el modem para que pienses que no sirve",
         power : 1,
       }
     ]
-  } */
+  }
+
 ];
