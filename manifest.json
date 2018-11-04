@@ -1,0 +1,26 @@
+{
+    "name": "Cartas Hacker",
+    "short_name": "CH",
+    "background_color": "#1d1d1d",
+    "display": "standalone",
+    "orientation": "landscape"/*,
+     "icons": [
+      {
+        "src": "alligator-48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "alligator-96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "alligator-100.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }
+    ],
+    "start_url": "/sturdy-doodle/index.html" */
+  }
+  
